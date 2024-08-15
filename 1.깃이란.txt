@@ -7,7 +7,7 @@
 누가 언제 뭘 변경했늦지 커밋을 올리면서 서로 비교 가능
 CLI(Command Line Interface), GUI(Graphical User Interface) 
 
-- 깃허브: 코드 저장소.
+- 깃허브: 코드 저장소. 깃 기반의 저장소 서비스
 
 - 깃 랩
 
